@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+.banner {
+  min-height: 100vh;
+  background: url("https://cdn.shopify.com/s/files/1/1630/2077/articles/IMG_1947_large.JPG?v=1492207785")
+    center/cover no-repeat;
+}
